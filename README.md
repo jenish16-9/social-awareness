@@ -5,7 +5,7 @@ A static, mobile-first website with an intro page and two audience sections,
 an interactive story (called a scenario in Yuvako) and a prasang, in English,
 Gujarati and Hindi.
 
-- Live preview: <https://sanketsh4h.github.io/ak_outreach/>
+- Live preview: <https://social-awareness-xu7k.vercel.app/>
 - Build plan: [`docs/BUILD_PLAN.md`](docs/BUILD_PLAN.md) (the owner-amended version)
 
 > **Everything on the site is placeholder content.** It is marked as such on
